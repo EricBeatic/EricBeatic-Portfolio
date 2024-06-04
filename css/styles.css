@@ -1,0 +1,93 @@
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    background-color: #f8f9fa;
+    color: #333333;
+}
+
+.navbar {
+    border-bottom: 0.5px solid #ccc;
+}
+
+.navbar-brand {
+    font-weight: 900;
+}
+
+.nav-link {
+    font-weight: 700;
+    color: #000;
+}
+
+.left-column, .right-column {
+    padding: 20px;
+}
+
+.left-column {
+    padding-left: 55px;
+}
+
+.right-column {
+    padding-right: 55px;
+}
+
+h1 {
+    font-weight: 900;
+    color: #000;
+}
+
+p {
+    font-weight: 400;
+    color: #666;
+}
+
+.image-container {
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    margin-top: 65px;
+    position: relative;
+}
+
+.content-below-image {
+    margin-top: 20px;
+}
+
+.content-below-image h1 {
+    font-size: 48pt;
+    font-weight: 700;
+    color: #000;
+}
+
+.content-below-image p {
+    font-size: 14pt;
+    font-weight: 400;
+    color: #666;
+}
+
+.headline-spacing {
+    margin-bottom: 40px;
+}
+
+.left-column img {
+    margin-top: 63px;
+}
+
+.contact-info {
+    margin-top: 65px;
+}
+
+.contact-info b {
+    font-weight: 700;
+}
+
+.carousel-padding {
+    padding-top: 55px;
+}
+
+.project-card img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-item {
+    padding: 20px;
+}
